@@ -11,8 +11,8 @@ def consulta_function(entry):
 
 def get_saldo(id):
     url = 'http://bip-servicio.herokuapp.com/api/v1/solicitudes.json?bip={id}'
-    params = {'APPID': url, 'q': id}
-    response = requests.get(url, params=params)
+    params = {'q': id}
+    response = requests.get(url, params)
     print(response.json())
 
 
@@ -32,7 +32,7 @@ frame.place(relx=0.5, rely=0.1, relwidth=0.60, relheight=0.1, anchor='n')
 entry = tk.Entry(frame, font=10)
 entry.place(rely=0.15, relwidth=0.65, relheight=0.7)
 
-button = tk.Button(frame, text='Consultar', font=10, command=get_saldo(entry.get()))
+button = tk.Button(frame, text='Consultar', font=10, command=lambda: get_saldo(entry.get()))
 button.place(relx=0.7, rely=0.12, relwidth=0.3, relheight=0.7)
 
 lower_frame = tk.Frame(root, bg='#13152C', bd=10)
