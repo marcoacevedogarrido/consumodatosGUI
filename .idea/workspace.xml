@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e12b736-cef2-4647-bc3f-46438f0c5823" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/marco.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MarcoAcevedoCV_1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../MarcoAcevedoCV_1.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PROYECTOS/galletometro.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../PROYECTOS/galletometro.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PROYECTOS/galletometro/.gitignore" beforeDir="false" />
@@ -121,6 +119,7 @@
       <change beforePath="$PROJECT_DIR$/../PROYECTOS/steelplus/web.config" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PROYECTOS/steelplusssss.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Viajes.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_974fa7509d583eabb592839f9716fe25_Lecture1.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cotizacion hosting/digitalocean.png" beforeDir="false" />
@@ -312,19 +311,21 @@
     <session id="278705532">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="852" />
+          <entry key="py" value="895" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="852" />
+          <entry key="Python" value="895" />
         </counts>
       </usages-collector>
     </session>
@@ -334,8 +335,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="330">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -355,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="730" />
     <option name="width" value="631" />
     <option name="height" value="775" />
@@ -444,7 +445,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21372855" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2574103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,8 +465,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="330">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
